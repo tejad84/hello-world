@@ -1,2 +1,2 @@
-<h1>  Welcome to Valaxy Technologies  </h1>
+<h1>  Valaxy Technologies  </h1>
 
